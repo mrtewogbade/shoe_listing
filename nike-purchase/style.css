@@ -1,0 +1,26 @@
+body{
+    background-image: url(/Images/nike-shoe.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding: 20px;
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    height: auto; 
+    width: auto; 
+    max-width: 300px; 
+    max-height: 300px;
+    border-radius: 10%;
+}
+
+#error{
+    color: red;
+}
+
+button{
+    background-color: rgb(161, 177, 130);
+    border-radius: 5px;
+}
